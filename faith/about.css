@@ -1,0 +1,32 @@
+p{
+  font-size: 1em;
+}
+
+h1{
+  font-size: 60pt;
+  text-align: center;
+  color: #009999;
+}
+
+h2{
+  font-size: 36pt;
+  text-align: center;
+  color: #009966;
+}
+
+body{
+    background-image: url(cw.png) ;
+    font-size: 13pt;
+    color: white; 
+}
+
+a{
+  color: white;
+  font-size: 1em;
+}
+
+.column {
+  float: left;
+  width: 20%;
+  padding: 5px;
+}

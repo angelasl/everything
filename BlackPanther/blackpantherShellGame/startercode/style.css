@@ -1,0 +1,78 @@
+/*Google FONTS
+ * font-family: 'Rajdhani', sans-serif;
+ */
+
+/* Custom Font*/
+@font-face {
+  font-family: BlackPanther;
+  src: url(blackpanther.ttf);
+}
+
+/*BODY*/
+body {
+  text-align: center;
+  font-family: 'Poor Story', cursive;
+  background-color: #800000
+}
+
+/* HEADER */
+.title {
+ font-family: BlackPanther;
+ font-size: 60px;
+ line-height: 10px;
+ color: #ffd700;
+ text-align: center;
+ letter-spacing: 30px;
+ text-shadow: 5px 3.5px black; 
+}
+
+.sub-title {
+ font-size: 45px;
+ line-height: 4px;
+ color: #ccc7c7
+ text-align: center;
+}
+
+.directions {
+ font-size: 35px;
+ font-weight: bold;
+ color: #ffffff;
+ text-align: center;
+}
+
+.player-name {
+ font-family: 'Rajdhani', sans-serif;
+ font-size: 30px;
+ text-align: center;
+}
+
+#name-button, #tryagain-button {
+ width: 10%;
+ background-color: #ffd700;
+ color: #800000;
+ text-align: center;
+}
+
+/* CARDS */
+.face-card {
+ width: 15%;
+ margin: 5px;
+ text-align: center;
+}
+
+.message {
+ font-size: 20px;
+ text-align: center;
+}
+
+/* FOOTER */
+#footer {
+ font-size: 20px;
+ text-align: center;
+}
+
+.logo {
+ width: 15%;
+ max-width: 15%;
+ text-align: center;
+}
